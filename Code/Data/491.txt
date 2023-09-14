@@ -1,0 +1,6 @@
+Name: Dvij
+Phone Number: -801031742
+Email: dvijpandya223@gmail.com
+Balance: 0
+Account Number: 491
+New Balance: 1000
